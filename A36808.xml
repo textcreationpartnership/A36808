@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Courten's catastrophe and adieu to East-India, or, A general and particular protest framed there, at Goa, in Febr. 1644, for and against the English East-India Company their governour deputy, Court of Committees and Adventurers in England, and their presidents, agents, commanders and factors in East-India aforesaid : with a previous, conscious and short introduction and conclusion to resell impertinent and frivolous allegations ... with the issues and events thereof, both general and particular, as formerly in print, intituled Strange news from the Indies, is partly exprest ...</title>
+            <author>J. D. (John Darell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36808</idno>
+            <idno type="STC">Wing D250</idno>
+            <idno type="STC">ESTC R6333</idno>
+            <idno type="EEBO-CITATION">12251029</idno>
+            <idno type="OCLC">ocm 12251029</idno>
+            <idno type="VID">57083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 139:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Courten's catastrophe and adieu to East-India, or, A general and particular protest framed there, at Goa, in Febr. 1644, for and against the English East-India Company their governour deputy, Court of Committees and Adventurers in England, and their presidents, agents, commanders and factors in East-India aforesaid : with a previous, conscious and short introduction and conclusion to resell impertinent and frivolous allegations ... with the issues and events thereof, both general and particular, as formerly in print, intituled Strange news from the Indies, is partly exprest ...</title>
+                  <author>J. D. (John Darell)</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.D.</note>
+                  <note>Attributed to John Darell. Cf. BM.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courten, William, d. 1655.</term>
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57083:1" rendition="simple:additions"/>
+            <pb facs="tcp:57083:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Cataſtrophe AND Adieu to <hi>EAST-INDIA:</hi> OR, A General and Particular PROTEST Framed there, at <hi>Goa</hi> in <hi>Febr.</hi> 1644. For and againſt the <hi>Engliſh Eaſt-India</hi> Company.</p>
+            <p>Their Governour Deputy, Court of Committees, and Adventurers in <hi>ENGLAND.</hi> AND Their Preſidents, Agents, Commanders and Factors in <hi>Eaſt-India</hi> aforeſaid. WITH A previous, conſcious, and ſhort Introduction, and Concluſion, reſell impertinent and frivolous Allegations, and diſpell the clouds of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſophiſtical Objections, that the naked Truth may plainly appeare to every impartial, candid, and unleavened apprehenſion and judgement, concerning that 5000 <abbr>li.</abbr> in queſtion <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olating to the aboveſaid parties, with the iſſues and events thereof, both General and Particular, as formerly in Print, Intituled, <hi>Strange News from the Indies,</hi> is partly expreſt, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>To all whom it may concerne,</hi> J. D. <hi>wiſheth pure, and perfect wiſdome and knowledge with a cleare and right underſtanding, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all things.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Printed by R. I., 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57083:2"/>
+            <pb facs="tcp:57083:2"/>
+            <head>Mr. <hi>Courtens</hi> Cataſtrophe and Adieu to <hi>EAST-INDIA:</hi> OR, A generall and particular Proteſt framed there, at <hi>Goa</hi> in <hi>Febr.</hi> 1644.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or ſo it came to paſſe that when all poſſible, faire and ſpeedy meanes had beene uſed by Mr. <hi>Courtens</hi> Agents and Factors in <hi>Eaſt-India</hi> (as may ap<g ref="char:EOLhyphen"/>peare by their ſeverall Meſſengers,) with Letters, and Proteſts directed and ſent to <hi>Robert Bowen</hi> Maſter, <hi>Francis Day</hi> Agent, and their Accomplices at <hi>Madraſſapatan</hi> by land, (and intentions and preparation of Ship <hi>Loyalty</hi> by Sea) to require and demand the Gold and Gunnes,
+<note place="margin">Note that Cex had never any command of the Gold af<g ref="char:EOLhyphen"/>ter he brought it aboard at <hi>Madagaſcar,</hi> and upon de<g ref="char:EOLhyphen"/>mand delive<g ref="char:EOLhyphen"/>red it in charge to <hi>Bowen.</hi>
+               </note> which the ſaid <hi>Bowen,</hi> had formerly aboard his Ship <hi>Endeavour</hi> taken in charge between <hi>Madagaſcar</hi> and <hi>Joanna</hi> Iſlands conditi<g ref="char:EOLhyphen"/>onally to aſſiſt <hi>Thomas Cox</hi> (late Maſter of a Ship called the <hi>Little-William</hi>) <hi>Tho. Hill</hi> his Purſer, and the reſt of their company in the tranſport thereof, according to their Orders and Conſignments, and not otherwiſe.</p>
+            <p>And the ſaid <hi>Cox, Hill,</hi> and Company arriving together with the ſaid <hi>Bowen</hi> at <hi>Madraſſapatan</hi> aforeſaid, the ſecond day of <hi>July,</hi> 1644. very diligently (as by oath and otherwiſe plainly appeares.) Demanded the foreſaid Gold and Guns of the ſaid <hi>Fr. Day.</hi> &amp;c. having received it aſhore from the ſaid <hi>Bowen,</hi> whom the ſaid <hi>Cox</hi> and <hi>Hill</hi> urged with his promiſes when he firſt took Charge thereof, in<g ref="char:EOLhyphen"/>ſomuch that within three or foure dayes after their foreſaid arrival, the ſaid <hi>Cox</hi> and <hi>Hill</hi> received a flat and poſitive deniall (as ſundry wayes alſo appears) with threats &amp; hard language from the ſaid <hi>Day,</hi> and the reſt, to this, or like effect, ſaying, Could not the ſaid <hi>Cox, Hill,</hi> and Company, be contented to have their own lives for a prey, being now in
+<pb n="2" facs="tcp:57083:3"/>their power, for have we not told you, that if we could not have had it by faire means, we would have had it by foule meanes, or by force; And will you ſtill be ſo importunate, and impudent to demand that which you ſhall never have, were it as much more (neither could their neceſſity ſpare it as is evident by <hi>Hills</hi> Affidavit) therefore take warning, and let us heare no more of demanding, leſt we give it you with a witneſſe, <hi>viz.</hi> thruſt you out of our Fort, and ſo peradventure you may be knockt in the head, or have your throat cut, for it would be no hard matter to overtake you, and then take what followes, but it ſhall never be put to that iſſue, ſeeing now your Gold, and you are inconſiſtent; For have we not told you ſufficient to informe you better. that we have Power and Commiſſions from our Imployers in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to have taken your Ship as well as your Gold, &amp;c. whereſoever met at Sea, and not to aſſiſt you with a peece of bread to ſave you from periſhing either by Sea, or Land, therefore take warning, advice and reſolve upon ſome other way &amp;c.</p>
+            <p>Then the ſaid <hi>Cox</hi> and <hi>Hill,</hi> &amp;c: apprehending plainly their pre<g ref="char:EOLhyphen"/>ſent condition and ſtrickt durance, being ſo proſcribed and con<g ref="char:EOLhyphen"/>founded in themſelves with their unexpected and ſevere, but downe-right dealing,
+<note place="margin">and <hi>Hills <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce.</hi>
+               </note> inſomuch that then the ſaid <hi>Cox</hi> and <hi>Hill,</hi> &amp;c. plainly perceived themſelves (upon the matter) lame, numbe, and dumbe, and could not be ſuffered either to goe, write, or ſpeake, to attaine, diſcover, or make themſelves, and their preſent condition known to any of Mr. <hi>Courtens</hi> Factors or Factories in <hi>India</hi> or elſe<g ref="char:EOLhyphen"/>where, although <hi>Rabagg</hi> (being one thereof) and ſcituate in their direct, and not halfe way to <hi>Surrat,</hi> where the Companies Factors had ſpeedy intelligence, and afterward newes thereof came from thence to <hi>Goa</hi> by accident.</p>
+            <p>Now the ſaid <hi>Cox</hi> and <hi>Hill</hi> and Company (apprehending truly how they were inſnared and inthrauled,
+<note place="margin">
+                  <hi>Cox</hi> and <hi>Hils</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes opened</note> and that all their endeavours by Sea, and Land were prevented, and their Gold coyned, and con<g ref="char:EOLhyphen"/>verted to the companies uſe by the ſaid <hi>Day,</hi> and the reſt) deſiſted further to proceed with the <hi>Junke</hi> or <hi>Hoye</hi> Maſter, with whom they had agreed for 40 <abbr>
+                  <hi>li.</hi>
+               </abbr> Sterling, or 160. Rials of eight Spaniſh (as the ſaid <hi>Hill</hi> related) to tranſport them to <hi>Acheen</hi> whither they were conſigned (being a common and frequent paſſage thence with little, or no danger) alſo they ceaſed to ſolicite the <hi>Engliſh</hi> Freeman at <hi>Madraſſapatan,</hi> to travell for <hi>Rabagg, Carwar,</hi> or <hi>Goa</hi> by Land, wherein (though eaſily he could and would) yet he durſt not aſſiſt them, ſaying the diſpleaſure of the ſaid <hi>Day</hi> thereby, would be his
+<pb n="3" facs="tcp:57083:3"/>utter undoing; as the ſaid <hi>Hill</hi> in his Affidavit further affir<g ref="char:EOLhyphen"/>meth.</p>
+            <p>Then the ſaid <hi>Cox</hi> and <hi>Hill,</hi> thought it not amiſſe (being paſt all hopes of receiving it) to get from the ſaid <hi>Day,</hi>
+               <note place="margin">
+                  <hi>Cox</hi> and <hi>Hill</hi> conſult.</note> and his Counſellors ſome acknowledgement thereof, leſt the ſaid <hi>Day</hi> or <hi>Bouen, &amp;c.</hi> ſhould diſpoſe or keep all, or any part of the ſame to their owne uſe, and not bring it to the Companies Account, as is uſuall there in repriſals (whereunto this at preſent was not much different) and as perad<g ref="char:EOLhyphen"/>venture it was the yeare foregoing, being <hi>Anno </hi> 1643, with that 40000 <hi>li.</hi> or thereabouts ſaid to be taken from <hi>Mamula Croe,</hi> King of <hi>Cannanore,</hi> and other <hi>Mallabar</hi> Merchants (that I verily be<g ref="char:EOLhyphen"/>leeve never did them hurt) and it is queſtionable whether one halfe thereof ever came to the Companies Caſh, ſo might this, &amp;c.</p>
+            <p>Therefore the ſaid <hi>Cox</hi> and <hi>Hill</hi> reſolved (or was by ſome ad<g ref="char:EOLhyphen"/>viſed, or inſtructed) to ſupplicate and requeſt the ſaid <hi>Francis Day</hi> and his aſſiſtants, that they would be pleaſed to confeſſe and acknow<g ref="char:EOLhyphen"/>ledge that he, and they had the ſaid Gold and Guns in their poſſeſſi<g ref="char:EOLhyphen"/>on, and that the <hi>Eaſt-India</hi> Company, their Imployers,
+<note place="margin">
+                  <hi>Cox</hi> and <hi>Hils</hi> firſt requeſt</note> might bee anſwerable for the ſame to Mr. <hi>Courten</hi> in <hi>England,</hi> with <hi>Engliſh</hi> Intereſt according to forbearance, or to that effect, which would have been about 5 <abbr>s.</abbr> ſterling, each Riall of eight here in <hi>England?</hi> But that requeſt the ſaid <hi>Day</hi> and Councel would not conſent to, being (as they ſaid) very unreaſonable, and ſo it was indeed? for every <hi>Barbary</hi> Duccat is there worth about two Rials of eight Spaniſh, and every Riall of eight tranſmitted thence (by Booke,
+<note place="margin">Nov. An. 1645.</note> or otherwiſe) for <hi>England,</hi> is worth about 10 <abbr>s.</abbr> here, and ſo valued (as reported) in the ſaid Companies pollicies of Inſurance, but tranſmitted from <hi>Madraſſapatan</hi> or <hi>Meſulapatan</hi> to <hi>Bantam,</hi> and ſo for <hi>England</hi> (the ſame courſe which the ſaid <hi>Day</hi> then tooke) every Riall of eight Spaniſh, is worth 13<abbr>s.</abbr> or 14 <abbr>s.</abbr> at leaſt in <hi>England,</hi>
+               <note place="margin">Unreaſonable-neſſereſts upon Dayes part, &amp;c.</note> and ſo every <hi>Barbary</hi> Duccat accordingly double, and that ſometimes in leſſe then twelve months, and without trouble; but in the courſe of Trade (free from diſaſter) as great or greater advantage might be expected. And it is very certaine, that the want thereof at <hi>Acheen</hi> (whither it was conſigned) conſtrained Mr. <hi>Courtens</hi> Factors there to borrow great ſummes of money at 6: <hi>per cent. per</hi> month,
+<note place="margin">
+                  <hi>Acheen</hi> intereſt</note> which is 72. <hi>per cent. per an.</hi> (the common Intereſt of that Port) untill their ſtocke was much conſumed, and their remaining goods and Jewels were (upon ſome difference) ſeized and ſold either by the ſaid Companies
+<pb n="4" facs="tcp:57083:4"/>Factors there, or by themſelves here, (as credibly reported) thus much for that unreaſonable requeſt which was at leaſt 100<abbr>li.</abbr> 
+               <hi>per cen.</hi> loſſe, as to Mr. <hi>Courten.</hi>
+            </p>
+            <p>Another and laſt addreſſe or requeſt to the ſaid <hi>Day</hi> and Councell, was made by the ſaid <hi>Cox</hi> and <hi>Hill,</hi> 6. <hi>July</hi> 1644. (but foure dayes after their arrivall at <hi>Madraſſapatan</hi>) which argued in the ſaid <hi>Cox</hi> and <hi>Hill</hi> abundance of care and diligence, as they had likewiſe for<g ref="char:EOLhyphen"/>merly expreſt, and this Requeſt was to this effect, or in theſe very words, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="request">
+                        <p>
+                           <note place="margin">
+                              <hi>Cox</hi> ſecond &amp; laſt Requeſt, or Petition.</note>That what Gold and Guns the ſaid <hi>Cox</hi> had delivered the ſaid <hi>Bowen</hi> aboard the Ship <hi>Endeavour,</hi>
+and which hath ſafely ar<g ref="char:EOLhyphen"/>rived to your hands, That you would pleaſe to continue it in your protection,
+and referre the ſatisfaction thereof unto your honourable Imployers, and the worſhipfull <hi>William Courten</hi> 
+                           <abbr>Eſq</abbr> Becauſe we know not how to ſecure it from our own men, nor diſpoſe to any of the Factories of <hi>William Courten</hi> Eſquire, whoſe ſervants here ſubſcribe.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Tho. Cox.</item>
+                                 <item>Tho. Hill.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="answer">
+                        <p>
+                           <note place="margin">Anſwer.</note>Your Requeſt we confeſſe to be now ſomewhat rationall,
+ There<g ref="char:EOLhyphen"/>fore ſhall continue the Gold in our cuſtody: And wee promiſe in our next Advices for <hi>Europe</hi> to acknowledge our poſſeſſion thereof to our honourable Imployers.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Francis Day.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hen. Greenvil.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Travel.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <note place="margin">
+                  <hi>Dayes &amp;c.</hi> de<g ref="char:EOLhyphen"/>pravity.</note>It is hereby eaſily apprehended what errors and abſurdities are in<g ref="char:EOLhyphen"/>cident to men of covetous,
+ cruell, and corrupt principles, and depraved conſciences, and eſpecially from this double, falſe, (I will not ſay forged) put; becauſe wee know not how to ſecure, &amp;c. Nor diſ<g ref="char:EOLhyphen"/>poſe, &amp;c.</p>
+            <p>
+               <note place="margin">
+                  <hi>Cox</hi> and <hi>Hils</hi> ſincerity.</note>For they that had formerly expreſt ſo much honeſty, care, and in<g ref="char:EOLhyphen"/>duſtry 500.
+ Leagues in their Long-boat to attaine <hi>Madagaſcar,</hi> and nine Months patient attendance and vigilancy (in ſo dangerous a place) to ſecure the ſame, and their company of men being ten to one then (if they had in the leaſt inclined to mutiny) and free from feare of any Nation whatſoever, and neare unto <hi>Moſambique,</hi> and ſundry
+<pb n="5" facs="tcp:57083:4"/>other <hi>Portugal</hi> Plantations upon the Coaſt of <hi>Soffala,</hi> where nei<g ref="char:EOLhyphen"/>ther <hi>Engliſh, Dutch, Moores,</hi> or <hi>Mallabars</hi> (ſave a few <hi>Arabbs</hi>) have any frequent commerce or correſpondence, and whither they might have gone with little or no danger, and found good entertain<g ref="char:EOLhyphen"/>ment, &amp;c. And now at <hi>Madraſſapatan</hi> and <hi>Meſulapatan,</hi>' places very eminent for generall Commerce, and Civill Government, and where it is impoſſible to finde any refuge for ſuch Malefactors, for to the <hi>Moores</hi> and <hi>Indians,</hi> Chriſtians are now an abomination in point of domeſticke entertainment, and cohabitation, as the <hi>Iſraelites</hi> of old were to the <hi>Egyptians,</hi> therefore they would not entertaine them (eſpecially being altogether ſtrangers, and not underſtanding their language.)</p>
+            <p>And as for the <hi>Dutch</hi> or <hi>Portugal</hi> (with whom having then either friendſhip, or free commerce) they neither could nor would in any wiſe protect them, therefore of neceſſity they muſt ſaile into the Moone to finde ſecurity, elſe no where.
+<note place="margin">A Simile or Alluſion.</note> And this to me ſeems to run pat and parallel with that of the High Prieſt and Elders to the Watchmen-ſouldiers recorded in holy Writ, which was alſo a forged and falſe putt, put into their mouthes, <hi>viz. Say yee that while wee ſlept, his Diſciples came by night and ſtole him away, and then let us alone with the Governour, &amp;c.</hi> Even ſo this, the one as full of ridiculous falſities and abſurdities, as the other, for circumſtance, for both by Sea and Land there was variety either by ſafe cuſtody or other conveyance thence, Mr. <hi>Courtens</hi> Factors having then a ſhip in continuall readineſſe to attend the ſame, but all in vaine; And the ſaid <hi>Hill</hi> in <hi>England</hi> did bluſh, and was aſhamed thereof,
+<note place="margin">
+                  <hi>Hils</hi> modeſty and honeſty.</note> and ut<g ref="char:EOLhyphen"/>terly diſclaimed it upon diſcourſe, and ſo altogether omitted and waved it in his Affidavit as falſe and feigned, and doubtleſſe <hi>Coxe</hi> would have done the ſame if either by word or writing he could bee brought to the Teſt. Thus much for the Circumſtance, &amp;c.</p>
+            <p>But now to the ſubſtance of the foreſaid Rationall Requeſt (as <hi>Day</hi> and the reſt termes it) <hi>viz.</hi> An acknowledgement of poſſeſſion,
+<note place="margin">A pretended reference very unreaſonable.</note> and reference for ſatisfaction, &amp;c. Now I ſuppoſe a poſitive deniall, or denials upon all and every demand or demands whatſoever, are by the Premiſes clearly confirmed, therefore I haſte (as the ſaid <hi>Day</hi> did) for <hi>England</hi> with <hi>Cox,</hi> and <hi>Hill</hi> in his company, but <hi>Cox</hi> dyed by the way, and <hi>Hill</hi> in <hi>England</hi> obſcured himſelfe, and <hi>Day</hi> very likely diſcovered the ſame to his honourable Imployers, whereof Mr. <hi>Cour<g ref="char:EOLhyphen"/>ten,</hi> or ſome for him (having notice of the paſſage) proſecutes that reference for ſatisfaction with the ſaid <hi>Eaſt-India</hi> Company, and
+<pb n="6" facs="tcp:57083:5"/>brought it likewiſe to a forced concluſion,
+<note place="margin">A forced con<g ref="char:EOLhyphen"/>cluſion.</note> 
+               <hi>viz.</hi> they acknowledged the ſaid Gold and Gunnes, and promiſed to pay the principal againe in <hi>India,</hi> Provided (as was credibly reported) Mr. <hi>Courten</hi> would procure an Order of Parliament for the tranſport of about 5000 <abbr>li.</abbr> in Rials of Eight <hi>Spaniſh,</hi> the better to inable their Factors in <hi>India</hi> to make payment thereof,
+<note place="margin">Com. Order.</note> which was drawne into an Order made by the Governour and Court of Committees for the <hi>Eaſt-India</hi> Company, and a Copy thereof ſent Mr. <hi>Courten,</hi> who ſpeedily pro<g ref="char:EOLhyphen"/>cured an Order of Parliament accordingly, and (to remove all ob<g ref="char:EOLhyphen"/>ſtacles,
+<note place="margin">Parl. Order.</note>) entred it into the Cuſtome-houſe (as reported) but it either came too ſoone, or too late, or ſome pretence or other prevented, that nothing was effected, untill Attachments afterwards came thicke and threefold upon it, and then it was pretended they could not ſafely pay it to any, becauſe they expected the Statute to iſſue continually, and then they would pay it to the Commiſſioners thereof willingly, be<g ref="char:EOLhyphen"/>cauſe they could beſt give them a firme diſcharge, but how the caſe is now between them, concernes me little, therefore with them I leave it; And will ſumme up the reſult of the Premiſes, which at beſt amounts but to this, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Bowens</hi> taking the Men, Monies and Gunnes in charge aboard, and delivering them to <hi>Day</hi> &amp;c. a ſhore, being both armed, with the Companies cruell and unreaſonable Commiſſions (as themſelves ſaid) to juſtifie their wicked actions. Then <hi>Cox, Hill,</hi> &amp;c. their frequent demands thereof to <hi>Day,</hi> &amp;c. urging <hi>Bowen</hi> with his pro<g ref="char:EOLhyphen"/>miſes, <hi>Bowen</hi> excuſes himſelfe, alleadging the power now aſhore in <hi>Day</hi> &amp;c. and <hi>Day</hi> plainly denies to reſtore or deliver the ſame to <hi>Cox, Hill,</hi> &amp;c. but with rough and hard language (and other indirect dealing) ſo terrifies, proſcribes, reſtraines, prevents, and over-awes them, that at length they are faine to beg and accept of a bare ac<g ref="char:EOLhyphen"/>knowledgement thereof from the ſaid <hi>Day,</hi> &amp;c. (rather then nothing) with a promiſe of reference for ſatisfaction in <hi>England</hi> from his Im<g ref="char:EOLhyphen"/>ployers (in a manner) what and wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n they pleaſe; ſo <hi>Day</hi> forthwith coynes, and converts the Gold to the Companies uſe to pay their debts and intereſt there, and the like; and ſuddenly takes ſhipping and removes out of reach to <hi>Bantam,</hi> then for <hi>England,</hi> and diſpo<g ref="char:EOLhyphen"/>ſes ſo of the men, and their papers at pleaſure, that but one of ſeven<g ref="char:EOLhyphen"/>teene (and he accidentally) ever yet appeared, that ever I heard of, and that one ſo appearing makes good all this (upon the matter) in his ſparing Affidavit, and much more in his diſcourſe: Thus far <hi>Day, Bowen,</hi> &amp;c. at <hi>Madraſſapatan</hi> in <hi>India,</hi> &amp;c.</p>
+            <pb n="7" facs="tcp:57083:5"/>
+            <p>Then in <hi>England</hi> Mr. <hi>Courten</hi> (poore oppreſſed Gentleman) ſo<g ref="char:EOLhyphen"/>licites the Company for the ſame, they promiſe to pay the principall 5000 <abbr>li.</abbr> againe in <hi>India,</hi> but upon a very doubtfull condition, yet the ſame condition,
+<note place="margin">Mr. <hi>Courten</hi> glad of any thing. Comp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.ſailer.</note> was ſpeedily and punctually performed on Mr. <hi>Courtens</hi> part, but the Company failed on their part, and made no ſatisfaction, and this about ſix or ſeven yeares agoe, and ſo reſts ever ſince, and ſo will I a little while, having already followed the gold at the very heels, firſt from <hi>England</hi> to <hi>India,</hi> then from <hi>India</hi> to <hi>England</hi> againe, and not overtaken it: And now having reſted my ſelfe a little, I will paſſe againe into <hi>India</hi> to know whats become of Ship <hi>Loyalty</hi> being in purſuit of <hi>Bowen</hi> to <hi>Perſia,</hi> ſtill to continue the ſaid Demand, preſenting you (in the interim) with the copy or ſubſtance of the forementioned <hi>Proteſt,</hi> with two Letters to the Pre<g ref="char:EOLhyphen"/>ſident of <hi>Surrat</hi> uſhering the ſame, which I moſt humbly referre to the peruſall and ponder of every grave and judicious ſoule to con<g ref="char:EOLhyphen"/>ſider, whoſe genuine dialect ſhall be their owne expounders, and are as followeth, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letters">
+                        <head>Two Letters.</head>
+                        <div type="letter">
+                           <head>
+                              <hi>To the Worſhipful</hi> Francis Brittan <hi>Preſident and Councel at</hi> Surrat <hi>in</hi> Eaſt-India, <hi>theſe preſent.</hi>
+                           </head>
+                           <opener>
+                              <salute>Gentlemen,</salute>
+                           </opener>
+                           <p>TO you that are imployed at <hi>Surrat</hi> for the Honourable <hi>Eaſt-India</hi> Company (as formerly to <hi>Madraſſapatan</hi>) we are con<g ref="char:EOLhyphen"/>ſtrained to direct theſe lines, giving you thereby to underſtand of our extreame ſufferings, by reaſon of ſome diſcourteous dealings by ſome of yours in the ſame Imployment (eſpecially at <hi>Madraſſapatan</hi> aforeſaid) the paſſage was knowne to you long agoe (as we are cre<g ref="char:EOLhyphen"/>dibly informed) and ſince to us by accident. It is concerning Mr. <hi>Tho. Coxe</hi> (late Commander of the <hi>Little William</hi>) <hi>Tho. Hill,</hi> &amp;c. and the Cargo, about 5000 <abbr>li.</abbr> Sterling belonging to <hi>William Courten</hi> Eſquire (our worthy Imployer) conſigned to us, or other his Facto<g ref="char:EOLhyphen"/>ries or Factors here in <hi>India,</hi> &amp;c. We have already endeavoured what we could, and addreſſed our ſeverall expreſſes to your foreſaid Port of <hi>Madraſſapatan,</hi> with much expence and loſſe of time, and (we feare) of life of a young Gentleman not yet heard of, imployed by us meerly upon the ſame occaſion. Wherefore we intreat, that which we hope you in reaſon and equity cannot deny, <hi>viz.</hi> (our owne monies) we and none elſe in theſe parts having any juſt power to diſ<g ref="char:EOLhyphen"/>poſe
+<pb n="8" facs="tcp:57083:6"/>of the ſame. We intended likewiſe to ſend to <hi>Bantam</hi> to the Companies Preſident and Councell there, but underſtanding by <hi>Dutch</hi> report at the Bar of <hi>Goa,</hi> that they were gone and removed both thence, and from <hi>Macaſſer,</hi> but when, or whither they related not. Wherefore conceiving no other courſe at preſent ſo proper as to make our addreſſes unto you, well hoping that the juſtneſſe of our requeſt or demand (terme it how you pleaſe) will ſo farre prevaile as that we may receive full and ſpeedy ſatisfaction in the premiſes without further delay or trouble.</p>
+                           <p>In confidence therefore of your reſpect to your owne reputation, honour of your imployment, and the remembrance of thoſe ſmall courteſies (as we conceive them) from us formely received, you will not adde further damage to what we have (for want of the premiſes) already ſuſtained, But will oblige us,</p>
+                           <closer>
+                              <signed>Your loving Friends, Jo. Farren, Jo. Darel, Tho. Billidge Abr. Hunt.</signed>
+                              <dateline>
+                                 <hi>Goa</hi> 
+                                 <date>26. <hi>Decem.</hi> 1644.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                        <div type="letter">
+                           <head>To the Worſhipfull <hi>Francis Brittan,</hi> and Councell, theſe preſent. In <hi>Surrat Eaſt-India.</hi>
+                           </head>
+                           <opener>
+                              <salute>Mr. <hi>Francis Brittan, &amp;c.</hi>
+                              </salute>
+                           </opener>
+                           <p>OUr firſt and laſt to you bearing date 26. Decem. 1644. <hi>ſtil. veter.</hi> We hope is ſafely come to your hands (although hither<g ref="char:EOLhyphen"/>to received no anſwer) whoſe contents to us appeares ſo juſt they can receive no deniall, and delay (where able) is <hi>ſumma injuria.</hi> If the caſe had beene contrary, we ſhould have thought our ſelves accurſed (with reſpect to Divinity as Chriſtians) to have denied or neglected ſuch a ſmall courteſie in humanity, whether to Jewes, Turkes, or Infidels: Aſſuredly you know the paſſage (we favour you in the terme) and the perſon that compleated the ſame, Mr. <hi>Francis Day;</hi> It was contrived in <hi>England</hi> (as we underſtand) and effected at <hi>Madraſſapatan:</hi> The injury being ſo palpable, makes our expreſ<g ref="char:EOLhyphen"/>ſions the more patheticall, and the rather becauſe we finde it accom<g ref="char:EOLhyphen"/>panied in all parts and places, with aſperſions, detractions, and da<g ref="char:EOLhyphen"/>mageable defamations which with us works this good effect, <hi>viz.</hi> A diligent inquiry into the actions of our Imployer, and our ſelves, and can finde no ground at all for any theſe diſcourteſies (that imputation of <hi>Cob</hi> and <hi>Eyres,</hi> before authority being fully cleared, and fairly vin<g ref="char:EOLhyphen"/>dicated
+<pb n="9" facs="tcp:57083:6"/>after ſundry yeares ſearch, though a few minutes were (be<g ref="char:EOLhyphen"/>fore the ſame Authority) found too much on the contrary part.) By touching upon this ſtring, you may plainly perceive our ignorance de<g ref="char:EOLhyphen"/>ſerves information, as well as our deſires, or demands, preſent ſatis<g ref="char:EOLhyphen"/>faction to prevent further and future proceedings.</p>
+                           <p>A foundation laid in blood may as well expect proſperity, as a Trade maintained or managed by violence or iniquity. We are not yet ſo happy as to have the knowledge of our Errour, wherein juſtly to accuſe our ſelves towards you, or your Imployers in this Query, (What evill have we done) if lawfull living be allowed?</p>
+                           <p>Therefore in all due obedience and humility, to all juſt and equall Orders, and Lawes, proceeding from Authority, we reſt in hope you will recollect your actions, and ſatisfie our juſt deſires, that brotherly love may begin, where wanting, and begun, continue. In expectation whereof we reſt</p>
+                           <closer>
+                              <signed>Your loving Friends, Jo. F, Jo. D. Th. B. Abr. H.</signed>
+                              <dateline>Goa <date>11. Jan. 1644.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="protest">
+                        <head>The Proteſt</head>
+                        <p>
+                           <hi>KNow all men by theſe preſents whom it may concerne, That whereas</hi> William Courten <hi>of</hi> London <hi>Eſquire, and other Ad<g ref="char:EOLhyphen"/>venturers by vertue of his Majeſties Letters under his Royall Signature, and Privy Signet, bearing date the</hi> 20. <hi>day of</hi> Decem: 1635. <hi>As alſo of his Leters Patents under the Great Seale of</hi> England, <hi>bearing date the firſt day of</hi> June, 1637. <hi>was thereby licenſed to trade into ſundry parts of</hi> Eaſt-India, <hi>and elſewhere, as by the ſaid Letters and Patents, more at large ap<g ref="char:EOLhyphen"/>peareth.</hi>
+                        </p>
+                        <p>
+                           <hi>And thereby alſo injoyned with the</hi> Eaſt-India Company <hi>(then trading into ſome of thoſe parts and places of</hi> Eaſt-India <hi>or elſe<g ref="char:EOLhyphen"/>where aforeſaid) equally to obſerve the Ordinances, Conditions, and Limitations therein ſpecified, which he the ſaid</hi> William Courten <hi>Eſquire, and Adventurers, and his, or their Agents, Factors, and ſervants on their parts have hitherto kept and ob<g ref="char:EOLhyphen"/>ſerved
+<pb n="10" facs="tcp:57083:7"/>And whereas the now</hi> Eaſt-India <hi>Adventurers, their Governour, or Governours, Deputy or Deputies, and other their Committees in</hi> England. <hi>As alſo their Preſident or Preſidents, Agent or Agents, or other their Commanders Factors, or ſervants in</hi> Eaſt-India, <hi>or parts adjacent aforeſaid, have by their miſdoings there, committed divers and ſundry outrages, and Actions tending greatly to the diſhonour of God, and inevitable danger and damage of their brethren (eſpecially of the ſaid</hi> William Courten <hi>Eſquire, and other his Partners, and Adventurers in</hi> England <hi>aforeſaid;) And likewiſe of all other his Agent or Agents, Factors, and Servants in</hi> Eaſt-India, <hi>or parts adjacent aforeſaid, whether by Sea or Land, in the Imployment of the ſaid</hi> William Courten <hi>Eſquire, and his ſaid Partners and Adventurers;</hi> Viz. (inter alias) <hi>the ſaid Companies Ships, called the</hi> Sea-horſe, Robert Tindal <hi>Commander,</hi> and <hi>Tho. Brittan</hi> Merchant. <hi>Alſo their Ship called the</hi> Hinde, William Broadbenth <hi>Commander, and</hi> William Thurſton <hi>Merchant (with others belonging to the ſaid</hi> Eaſt-India <hi>Adventurers) violently taking and ſurpriſing in the month of</hi> May 1643. <hi>ſundry, and ſome very rich Veſſel or Veſſels, neare, or upon the Coaſt of</hi> Mallabar <hi>in</hi> Eaſt-India <hi>aforeſaid, belonging to</hi> Mamula Croe <hi>King of that Country (and other great men, and Merchants there inhabiting) deſtroying, and drowning their men without mercy, thereby indamaging and preventing the ſaid</hi> Wil<g ref="char:EOLhyphen"/>liam Courten <hi>Eſquire, and Adventurers, and all other his, or their Agents, Factors and Servants in</hi> Eaſt-India <hi>aforeſaid, in their ac<g ref="char:EOLhyphen"/>cuſtomed Ports and places of Trade, ſcituate in, or neare the Government, or Juriſdiction of</hi> Mamula Croe <hi>aforeſaid. Thereby alſo mightily incenſing, exaſperating, and provoking ſundry Kings, Princes, and Governours, not onely to moleſt, and impriſon, but alſo to kill, burne, and deſtroy all and every the ſervants houſes and ſhips (whether by Sea, or Land) belonging to the ſaid</hi> William Courten <hi>Eſquire, and other Adventurers; And to threaten revenge, and utterly to raze their Fortifications downe to the ground (eſpecially at</hi> Carwar) <hi>compelling us thereby to for<g ref="char:EOLhyphen"/>tifie the ſame for the ſafeguard of our lives, and deſiſt from our lawfull courſe of Commerce (being in continuall danger) and to ſtand upon our guard, conſuming much of our Imployers eſtates in raiſing of Fortifications, and procuring other neceſſaries for our preſent ſecurity and ſubſiſtance, without any profit, or hopes of advantage.</hi>
+                        </p>
+                        <p>
+                           <pb n="11" facs="tcp:57083:7"/>
+                           <hi>Alſo the ſaid</hi> Eaſt-India <hi>now Adventurers, their Ships, Factors and Servants (contrary to the contents of the foreſaid Letters and Patent) frequenting ſundry years by-paſt, and ſtill the Ports and places of Trade properly belonging to the ſaid</hi> William Courten <hi>Eſquire, &amp;c Adventurers, as</hi> Rajapore, Acheen, <hi>and others, to his and their exceeding prejudice, and damage of the whole Im<g ref="char:EOLhyphen"/>ployment.</hi>
+                        </p>
+                        <p>
+                           <hi>Furthermore, Whereas</hi> Thomas Cox <hi>of</hi> Redderiffe, <hi>Marriner, late Maſter of Ship</hi> William, <hi>and</hi> Thomas Hill <hi>Factor, and others in the ſaid Ship belonging to the ſaid</hi> William Courten <hi>Eſquire and other Adventurers, and conſigned to ſome of his, or their Ports or places aforeſaid, which ſaid Ship was caſt away about an hun<g ref="char:EOLhyphen"/>dred and forty Leagues to the Eaſt-ward of</hi> Cape bona Eſper<g ref="char:EOLhyphen"/>ranza, <hi>all the men, and monies therein ſaved (being about</hi> 5000<abbr>
+                              <hi>li.</hi>
+                           </abbr> ſterling) <hi>all, or moſt part thereof, in</hi> Barbary <hi>gold, and two braſſe Gunnes. The ſaid</hi> Tho. Cox, Tho. Hill <hi>Company, and Cargoe, ſailing thence in their long boat about five hundred Leagues, and arriving ſafe in</hi> Auguſtine <hi>Baye at</hi> Madagaſcar <hi>Iſland as by their Letters may appeare. In which ſaid Baye ſhortly after firſt arri<g ref="char:EOLhyphen"/>ved a ſhip belonging to the ſaid</hi> Eaſt-India <hi>Adventurers, called the</hi> Endeavour (Robert Bowen <hi>Commander</hi>) <hi>In which ſaid ſhip the ſaid</hi> Tho. Cox, Tho. Hill, <hi>Company, and Cargoe (about</hi> 5000 <abbr>
+                              <hi>li.</hi>
+                           </abbr> ſterling, <hi>and two braſſe Gunnes as aforeſaid) obtained paſſage to</hi> Madraſſapatan, <hi>a Factory upon the Coaſt of</hi> Choromandel <hi>belonging to the ſaid</hi> Eaſt-India <hi>Adventurers, and there ſafely arrived the ſecond day of</hi> July, 1644. <hi>The ſaid</hi> Tho. Cox, Tho. Hill, <hi>and Company, intending thence to repaire to ſome of the Ports or Fa<g ref="char:EOLhyphen"/>ctories, belonging to the ſaid</hi> William Courten <hi>Eſquire, &amp;c. Ad<g ref="char:EOLhyphen"/>venturers, as by Letters under the hands of the ſaid</hi> Cox <hi>and</hi> Hill, <hi>may appeare, which ſaid Ports and Factories being not twenty dayes journey on foot by land from</hi> Madraſſapatan <hi>aforeſaid,</hi> Francis Day <hi>there then Agent for the ſaid</hi> Eaſt-India <hi>Adventu<g ref="char:EOLhyphen"/>rers, and</hi> Thomas Ivie <hi>ſucceeding the ſaid</hi> Francis <hi>in Port and place aforeſaid.</hi>
+                        </p>
+                        <p>
+                           <hi>But ſo it is that the ſaid men,</hi> Tho. Cox, Tho. Hill, &amp;c. <hi>and the ſaid monies about</hi> 5000 <abbr>
+                              <hi>li.</hi>
+                           </abbr> ſterling, <hi>and Guns aforeſaid, or both, are by the ſaid</hi> Eaſt-India <hi>Adventurers their Governour, De<g ref="char:EOLhyphen"/>puty, or Committees in</hi> England, <hi>or by the ſaid</hi> Robert Bowen, Francis Day, Tho. Ivie, <hi>and their aſſiſtants, or elſe by their Pre<g ref="char:EOLhyphen"/>ſident, or Preſidents, Agent, or Agents, or other their Comman<g ref="char:EOLhyphen"/>ders,
+<pb n="12" facs="tcp:57083:8"/>and Factors, in</hi> Eaſt-India <hi>aforeſaid (or ſome of them) detained and kept, tranſported, or conveyed, and ſo pre<g ref="char:EOLhyphen"/>vented perſonally to appeare, or by writing to make themſelves knowne to be living, to any the Agents, Factors, or</hi> Servants <hi>be<g ref="char:EOLhyphen"/>longing to the ſaid</hi> William Courten <hi>Eſquire, and Adventurers being in their imployment in</hi> Eaſt-India, <hi>or parts adjacent afore<g ref="char:EOLhyphen"/>ſaid, and the ſaid monies about</hi> 5000 <abbr>
+                              <hi>li.</hi>
+                           </abbr> ſterling, <hi>by the foreſaid parties (or ſome of them) detained, and denied to be paid unto the ſaid</hi> William Courten <hi>Eſquire, and Adventurers, or to his, or their Agent, or Agents, Factor, or Factors, or other his, or their ſervant, or ſervants in</hi> Eaſt-India, <hi>or parts adjacent aforeſaid (although with great hazard and coſt ſolicited and demanded) as by good teſtimony may fully appeare, to the incredible damage, and diſparagement of the ſaid</hi> William Courten <hi>Eſquire, &amp;c. Ad<g ref="char:EOLhyphen"/>venturers, and their whole imployment; And to the daily hazard and indangering the lives and liberties of ſome, or all his, or their Agents, Factors, or ſervants in</hi> Eaſt-India, <hi>or parts adjacent, aforeſaid, ſome having already thereby indured long impriſon<g ref="char:EOLhyphen"/>ment, &amp;c.</hi>
+                        </p>
+                        <p>Wherefore <hi>in conſideration of the premiſes, reſpecting our Im<g ref="char:EOLhyphen"/>ployers and Imployment, and ſenſible apprehenſion of our owne diſtreſſes which they, or we already have, or hereafter may ſuffer, procured as aforeſaid. Wee</hi> John Farren <hi>Agent and Councel, principally and chiefly in the name, and on the behalfe of</hi> William Courten <hi>Eſquire aforeſaid, our Imployer; and all other Adven<g ref="char:EOLhyphen"/>turers with him in generall; As alſo for our ſelves, and all other ſervants in the ſame imployment, our lives, liberties, or what elſe ours in particular, and in the preſence of ſufficient witneſſes, Doe make, Proteſt againſt you</hi> William Cockaine <hi>Governour,</hi>
+                           <note place="margin">Proteſt.</note> William Methwold <hi>Deputy, or whoſoever Go<g ref="char:EOLhyphen"/>vernour, or Deputy for the time being; As alſo your Aſ<g ref="char:EOLhyphen"/>ſiſtants, or Court of Committees for the time being, and all others whom it may concerne in</hi> England. <hi>Likewiſe againſt you</hi> Robert Bowen, Francis Day, <hi>and</hi> Tho. Ivie <hi>aforeſaid, and your Aſsiſtants and Councellors. And laſtly, Againſt you</hi> Francis Brittan <hi>Preſi<g ref="char:EOLhyphen"/>dent at</hi> Surrat, Ralph Cartwright <hi>Preſident at</hi> Bantam, <hi>or whoſo<g ref="char:EOLhyphen"/>ever Preſident or Preſidents there for the time being for the ſaid</hi> Eaſt-India <hi>Adventurers: And all other Preſident, or Preſidents, Agent, or Agents, Counſellours, Commanders, Factors, or Aſ<g ref="char:EOLhyphen"/>ſiſtants, in</hi> Eaſt-India, <hi>or parts adjacent, as aforeſaid, now, or late
+<pb n="13" facs="tcp:57083:8"/>in the ſervice or imployment of the ſaid Governour or Gover<g ref="char:EOLhyphen"/>nours, Deputy or Deputies, and Court of Committees aforeſaid. And againſt them, and you joyntly and ſeverally, now, or late in the ſervice or imployment of the whole Company of</hi> Eaſt-India <hi>Adventurers or Merchants aforeſaid, (with reference and ſub<g ref="char:EOLhyphen"/>miſsion now, and hereafter, here, and elſewhere to the proper right and intereſt of our Imployer, and Imployers, ſave our lives and liberties, or what elſe peculiarly ours.) That whatſoever loſſe or damage, or other diſtreſſe, the ſaid</hi> William Courten <hi>Eſquire, and other Adventurers with him, or any of them, or any other, his, or their Agent or Agents, Factor or Factors, ſervant, or ſervants in</hi> Eaſt-India, <hi>or parts adjacent, aforeſaid, have already ſuffered, or hereafter ſhall ſuffer in body, goods, or name, by the actions or miſdoings of the ſaid Governour or Governours, Deputy, or De<g ref="char:EOLhyphen"/>puties, Committee or Committees in</hi> England, <hi>or by your Preſi<g ref="char:EOLhyphen"/>dent, or Preſidents, Agent or Agents, Commander, or Comman<g ref="char:EOLhyphen"/>ders, or other your Factors and</hi> ſervants <hi>in</hi> Eaſt-India, <hi>or parts ad<g ref="char:EOLhyphen"/>jacent aforeſaid, in time and place convenient ſhall be required, at all, or any, and every your hands, either by Appeale to the Right Honourable his Majeſties higheſt Court of Parliament, now or late at</hi> Weſtminſter <hi>aſſembled, or any other Court or Courts of Juſtice or Equity thereon depending, as the juſtneſſe &amp; truth of the cauſe ſhall deſerve. And in the abſence of Councel learned in the Law, and of a publick Notary, or other Inſtrument ordained for that pur<g ref="char:EOLhyphen"/>poſe. Wee the ſaid</hi> John Farren, <hi>Agent, and Councel, have made this</hi> Proteſt, <hi>and ſent a true Copy thereof unto you</hi> William Cockayne <hi>Governour,</hi> William Methwolde <hi>Deputy, and Court of Committees, or whoſoever Governour, Deputy, or Committees for the time be<g ref="char:EOLhyphen"/>ing in</hi> England. <hi>Likewiſe to you</hi> Francis Brittan <hi>Preſident at</hi> Sur<g ref="char:EOLhyphen"/>rat, <hi>or whoſoever Preſident there for the time being: And to all other Preſident or Preſidents, Agent, or Agents, Commanders, Factors,</hi> or Servants, <hi>whom it may concerne in</hi> Eaſt-India <hi>or parts adjacent aforeſaid, in the ſervice and imployment of the now</hi> Eaſt-India <hi>Adventurers, commonly called the Old</hi> Eaſt-India Com<g ref="char:EOLhyphen"/>pany.</p>
+                        <closer>
+                           <signed>Witneſſed <hi>and ſubſcribed by us,</hi> John Farren, <hi>Agent, and Coun<g ref="char:EOLhyphen"/>cel aforeſaid, leſt you or they, or any of you, or them, ſhould plead ignorance, or excuſe in the Premiſes.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="14" facs="tcp:57083:9"/>
+            <p>Being againe arrived in <hi>India,</hi>
+               <note place="margin">Factors, &amp;c. diſtreſſed.</note> about January 1644. I found Mr. <hi>Courtens</hi> Factors and affaires in a very wofull, ſad, diſtracted, and languiſhing condition (meerly occaſioned as aforeſaid) and all their Letters and Proteſts South-ward to <hi>Madraſſapatan,</hi> &amp;c. returned null, and void of all hopes of any receipt or ſatisfaction as formerly expreſt. Likewiſe their forementioned Letters to the ſaid Compa<g ref="char:EOLhyphen"/>nies Preſident at <hi>Surrat</hi> North-wards, had no better ſucceſſe: And then the foreſaid <hi>Jo Farren</hi> Agent, and other Mr. <hi>Courtens</hi> Factors reſiding under the <hi>Portugals</hi> protection at <hi>Goa,</hi> for feare of the inraged <hi>Mallabars</hi> (as ſome of them alleadged) ſtill threatning <hi>Carwar</hi> (Mr. <hi>Courtens</hi> chiefe Factory) and all his ſhips by ſea,
+<note place="margin">Mallabars fea<g ref="char:EOLhyphen"/>red.</note> and Factories by land upon their borders, having a Fleet of Frigots about ſixty ſaile in number (carrying about ſeventy or eighty men in each Frigot) coaſting to and againe (as was credibly reported) for that very purpoſe;
+<note place="margin">A Fleet of Frigots.</note> So the foreſaid Ship <hi>Loyalty</hi> (fitted for cloſe fight) was continued to proſecute and purſue the ſaid <hi>Robert Bowen</hi> (Maſter of the ſaid Ship <hi>Endeavour</hi>) for <hi>Perſia</hi> ſtill to demand of him the foreſaid Gold,
+<note place="margin">
+                  <hi>Bowen</hi> ſtill purſued.</note> Guns, and Men, which he had formerly taken into his charge, but the ſaid <hi>Bowen</hi> haſtened thence to <hi>Surrat</hi> (as way after<g ref="char:EOLhyphen"/>wards reported) as <hi>Day</hi> formerly to <hi>Bantam,</hi> ſo both eſcaped her.</p>
+            <p>Then in Febr. 1644. the ſaid <hi>John Farren,</hi>
+               <note place="margin">Deſtruction apprehended and expected.</note> and Councel appre<g ref="char:EOLhyphen"/>hending nothing but a conſtant damage, and inevitable deſtruction thereupon to follow (being thus prevented of their ſupplies from <hi>England</hi> (and of ſending foure or five Ships lading home that yeare upon Mr. <hi>Courtens</hi> proper account) were thereby conſtrained to ſell off two or three hundred Tuns of lading (prepared for <hi>England</hi>) at great loſſe, and to conſume their ſtockes of Engliſh Cloath, and other Commodities in their ſeverall Factories to maintaine them<g ref="char:EOLhyphen"/>ſelves and ſhips in idleneſſe and demourage, and pay contracted Cuſtomes, and dead freights, with little or no profit at all from any im<g ref="char:EOLhyphen"/>ployment. And in this diſtreſſe, Mr. <hi>Courtens</hi> ſaid Agent, <hi>John Farren</hi> and Councel (when all their hopes and endeavours failed) before ſufficient witneſſes,
+<note place="margin">The occaſion of the Proteſt.</note> drew the foregoing <hi>Proteſt,</hi> and by the firſt convenient coveyance of their owne, <hi>viz.</hi> in October following, ſent the ſame for <hi>England</hi> in the ſhip <hi>Tho.</hi> and <hi>John, William Farre</hi> Maſter with two or three Copies thereof, ſealed and wit<g ref="char:EOLhyphen"/>neſſed, which were all upon arrivall, about the 28. of May, 1646. delivered Mr. <hi>Courten,</hi> or his vertuous, honourable, and diſtreſſed
+<pb n="15" facs="tcp:57083:9"/>Lady, and one of the ſaid ſealed Copies ſhortly after, upon one of their Court dayes was ſent to the ſaid <hi>Eaſt-India</hi> Company, and Court of Committees, then ſitting (as was credibly affirmed) and another of the ſaid Copies afterwards (upon this, and other occaſions) was read and pleaded by Councell, learned in the Law about March 1646,/1647. at the Barre of the Houſe of Lords in the preſence of the aforeſaid <hi>Eaſt-India</hi> Governour, Deputy, and many other of the Committees and Adventurers of the ſaid <hi>Eaſt-India</hi> Company, ac<g ref="char:EOLhyphen"/>cording to the appeale and purport thereof, but came to no con<g ref="char:EOLhyphen"/>cluſion.
+<note place="margin">Ship Loyalties demourage.</note>
+            </p>
+            <p>So that it came to paſſe afterwards in <hi>India,</hi> that the ſaid ſhip <hi>Loyalty</hi> after ten or twelve months demourage at three hundred pound <hi>per</hi> month, returned againe from <hi>Perſia</hi> for <hi>India,</hi> and ſo upon dead freight for <hi>England,</hi> inſomuch that the very charge and damage of that one ſhip onely, imployed as aforeſaid, in the purſuit, and proſecution of the demanding of the ſaid men, Gold and Guns, amounted to above three thouſand pound, beſides five hundred pound, or thereabouts in charges for proviſions,
+<note place="margin">Charge of de<g ref="char:EOLhyphen"/>manding 3600 <abbr>li.</abbr> &amp;c.</note> and other neceſſary ſupplies from Mr. <hi>Courtens</hi> Factories in <hi>India,</hi> and beſides an hun<g ref="char:EOLhyphen"/>dred and thirty, or a hundred a forty pound charges for demanding by Land, ſo that the full charge of demanding the ſame by Sea and Land, amounts to above three thouſand ſix hundred pounds, as by particulars in Print my alſo plainly appear.</p>
+            <p>And (as I am credibly informed) the owners of that one onely ſhip <hi>Loyalty</hi>) (by vertue of their Charter part) makes good an ac<g ref="char:EOLhyphen"/>count or demand (for dead freight and other damages) of full twelve thouſand pound to the Commiſſioners appointed for Mr. <hi>Courtens</hi> eſtate. And having then ſix or ſeven ſhips more in <hi>India</hi> (ſome bigger, ſome leſſer) and all, or moſt of them (ſave the <hi>Great-William</hi>) either ſold, or loſt in the Country, or returned empty (as to Mr. <hi>Courten,</hi>
+               <note place="margin">Above 50000<abbr>l.</abbr> damage.</note> chiefly by reaſon of the premiſes) the whole damage and loſſe whereof in two or three yeares, muſt needs amount to much above fifty thouſand pounds,
+<note place="margin">Above 100000 <abbr>l.</abbr> damage.</note> and in leſſe then five or ſix yeares to much above a hundred thouſand pounds, beſides the utter loſſe, ruine and deſtruction of Trade, Factories, and Plantations, thereby razing the very foundations thereof, as well that of <hi>Madagaſcar</hi> (the greateſt of all knowne Iſlands) as there ſt, which began (though ſomewhat unadviſedly ſeated) to poiſe and ſway the ballance of petty Kings there, upon any occaſion of difference, being invited to their aſſiſtance,
+<pb n="16" facs="tcp:57083:10"/>which for want of ſupplies and entercourſe of ſhipping (prevented as aforeſaid) likewiſe periſhed in the ſame generall deſtruction, as in a former Treatiſe, Entituled, <hi>Strange Newes from the Indies,</hi> may more fully and plainly appear.</p>
+            <p>And this generall deſtruction was ſealed and confirmed irrecove<g ref="char:EOLhyphen"/>rably<g ref="char:punc">▪</g> (as to Mr. <hi>Courten</hi>) upon return of his reputed ſeven ſixteenths in Partner-ſhip of the foreſaid ſhip <hi>Great-William</hi> to <hi>Ligorne,</hi> the principall, and proceed, whereof was eſtimated by ſome well-knowing men, at neare fifteene thouſand pounds, which proved but five thouſand pounds, and that left in the foreſaid Companies Factors hands, at <hi>Ligorne,</hi> aforeſaid, and the ſame ſo diſpoſed, and ordered there, that Mr. <hi>Courten</hi> could have no power thereof in any con<g ref="char:EOLhyphen"/>venient time, which wholly prevented all hopes of recruit.</p>
+            <p>
+               <hi>Thus have you the plaine truth of the ſtrange and various paſſages concerning the foreſaid five thouſand pounds, briefly and impartially communicated, with the ſad iſſues and events thereof, all, or moſt from ſight and experience, which cannot de<g ref="char:EOLhyphen"/>ceive.</hi>
+            </p>
+            <p>
+               <hi>This ſhort Narrative is wholly lamentable (almoſt incredible) to conſider (in the ſerious apprehenſion of ſome) that ſuch grave, rich, civill, religious ſeeming wiſe men, ſhould be ſo very cruell, and unreaſonable, or rather ſo exceedingly injurious and unnaturall to their brethren, and friends in particular, and to this Nation or Land of their Nativity in generall. If this Commonwealth pleaſed to take cognizance thereof;</hi>
+            </p>
+            <trailer>And ſo I conclude, Mr. <hi>Courtens</hi> Cataſtrophe and Adieu to <hi>Eaſt-India.</hi>
+            </trailer>
+            <closer>
+               <signed>
+                  <hi>Per</hi> J. D.</signed>
+               <dateline>
+                  <date>
+                     <hi>Mar.</hi> 2. 1651</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57083:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
